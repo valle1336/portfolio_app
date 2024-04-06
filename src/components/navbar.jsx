@@ -13,10 +13,10 @@ class Navbar extends Component {
               <a href="/">Home</a>
             </li>
             <li className="mx-4">
-              <a href="">Github</a>
+              <a href="/github">Github</a>
             </li>
             <li className="mx-4">
-              <a href="">CV</a>
+              <a href="/cv">CV</a>
             </li>
             <li className="mx-4">
               <a href="/techstack">Tech stack</a>
