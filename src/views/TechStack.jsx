@@ -1,7 +1,13 @@
 import React from "react";
 
 function TechStack() {
-  return <h1>TechStack fungerar!</h1>;
+  return (
+    <>
+      <select name="" id="">
+        <option value="val1">React</option>
+      </select>
+    </>
+  );
 }
 
 export default TechStack;
